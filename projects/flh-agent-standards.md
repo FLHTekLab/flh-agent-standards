@@ -16,3 +16,4 @@
 | `publishes/my-llm-kb` | `git@github.com:slee124565/my-llm-kb.git` | `publishes/my-llm-kb` | Todo |
 | `publishes/aiquan-kb` | `git@github.com:slee124565/aiquan-kb.git` | `publishes/aiquan-kb` | Todo |
 | `publishes/mis-gh-skill` | `git@github.com:slee124565/mis-gh-skill.git` | `publishes/mis-gh-skill` | Todo |
+| `publishes/flh-agent-standards` | `git@github.com:FLHTekLab/flh-agent-standards.git` | `publishes/flh-agent-standards` | Todo |
